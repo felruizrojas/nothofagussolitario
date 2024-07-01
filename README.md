@@ -1,2 +1,2 @@
 # nothofagussolitario
-Página web "Nothofagus Solitario" sobre viajes en solitario
+Página web de viajes. 
